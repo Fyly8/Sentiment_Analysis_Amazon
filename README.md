@@ -1,12 +1,21 @@
+<<<<<<< HEAD
 # Amazon-Alexa-Reviews
 
-## Watch Video: https://www.youtube.com/watch?v=6A2w-KYG4Ko
 
+
+=======
+<<<<<<< HEAD
+# Sentiment_Analysis_Amazon
+Sentiment Analysis Amazon reviews
+=======
+# Amazon-Alexa-Reviews
+
+>>>>>>> a4744de (Update)
 ## HOW TO RUN
 
 Step 1: Clone the repository
 ```
-git clone https://github.com/Surbhit01/Amazon-Alexa-Reviews.git
+git clone https://github.com/Fyly8/Sentiment_Analysis_Amazon
 ```
 
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
@@ -31,3 +40,7 @@ Step 5: The app will run on port 5000.
 ```
 localhost:5000
 ```
+<<<<<<< HEAD
+=======
+>>>>>>> cb175e8 (First commit)
+>>>>>>> a4744de (Update)
