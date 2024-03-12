@@ -1,6 +1,4 @@
 
-
->>>>>>> a4744de (Update)
 ## HOW TO RUN
 
 Step 1: Clone the repository
@@ -31,6 +29,3 @@ Step 5: The app will run on port 5000.
 localhost:5000
 ```
 
-=======
->>>>>>> cb175e8 (First commit)
->>>>>>> a4744de (Update)
